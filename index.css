@@ -5,7 +5,7 @@ html, body{
     display: flex;
     flex-direction: column;
     scroll-behavior: smooth;
-    background-image: url('https://s1.1zoom.me/big0/638/Milky_Way_Sky_Night_447884.jpg');
+    background-image: url('https://img.freepik.com/fotos-gratis/homem-musculoso-sem-camisa-com-barba-posando-perto-da-janela_613910-16971.jpg?w=2000');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -68,7 +68,7 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('https://s1.1zoom.me/big0/638/Milky_Way_Sky_Night_447884.jpg');
+    background-image: url('https://img.freepik.com/fotos-gratis/homem-musculoso-sem-camisa-com-barba-posando-perto-da-janela_613910-16971.jpg?w=2000');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -87,7 +87,7 @@ main h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('https://s1.1zoom.me/big0/638/Milky_Way_Sky_Night_447884.jpg');
+    background-image: url('https://img.freepik.com/fotos-gratis/homem-musculoso-sem-camisa-com-barba-posando-perto-da-janela_613910-16971.jpg?w=2000');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -120,26 +120,15 @@ main p{
     color: rgb(255, 247, 0); 
 }
 .P4{
-    color: rgba(64, 255, 0, 0.696); 
+    color: rgba(25, 90, 3, 0.696); 
 }
 .P5{
     color: rgb(0, 123, 255); 
 }
 .P6{
-    color: rgb(153, 0, 255); 
+    color: rgb(94, 0, 157); 
 }
-.P7{
-    color: rgb(255, 0, 0); 
-}
-.P8{
-    color: rgb(255, 128, 0); 
-}
-.P9{
-    color: rgb(255, 234, 0); 
-}
-.P10{
-    color: rgb(85, 255, 0); 
-}
+
 
 .Fernando{
     color: chartreuse;
@@ -162,7 +151,7 @@ main p{
 
 footer{
     width: 100%;
-    background-image: url('https://s1.1zoom.me/big0/638/Milky_Way_Sky_Night_447884.jpg');
+    background-image: url('https://img.freepik.com/fotos-gratis/homem-musculoso-sem-camisa-com-barba-posando-perto-da-janela_613910-16971.jpg?w=2000');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
